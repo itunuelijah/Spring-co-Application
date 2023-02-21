@@ -1,0 +1,9 @@
+﻿global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using Microsoft.EntityFrameworkCore;
+global using SpringCoApplication.Models;
+global using SpringCoApplication.Data;
+global using SpringCoApplication.Repositories;
+global using SpringCoApplication.Dtos;
+global using SpringCoApplication.Exceptions;
+global using SpringCoApplication.Mappers;
